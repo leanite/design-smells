@@ -9,6 +9,10 @@ modules.xml
 # Compiled class file
 *.class
 
+# Gradle files
+.gradle/
+build/
+
 # Log file
 *.log
 
